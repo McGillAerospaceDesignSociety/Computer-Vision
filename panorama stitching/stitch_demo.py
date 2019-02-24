@@ -1,5 +1,5 @@
 # USAGE
-# 
+# python stitch_demo.py -f [image1 name] -s [image2 name]
 
 # import the necessary packages
 from pyimagesearch.panorama import Stitcher
